@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">TravelerApp</string>
+    <string name="saludo">Bienvenido, @Usuario</string>
+    <string name="register">Crear Cuenta Nueva</string>
+    <string name="sign_up">Iniciar Sesión</string>
+    <string name="username">Username:</string>
+    <string name="password">Contraseña:</string>
+    <string name="birthdate">Fecha de nacimiento:</string>
+    <string name="show">Datos enviados:</string>
+    <string name="user_sent" translatable="false">Usuario recibido:</string>
+    <string name="password_sent" translatable="false">Contraseña recibida:</string>
+    <string name="birthday_sent" translatable="false">Fecha recibida:</string>
+    <string name="switch_text_show" translatable="false">Nacionalidad:</string>
+    <string name="switch_text" translatable="false">Nacionalidad:</string>
+</resources>
