@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Button btnOk = findViewById(R.id.sentButton);
         btnOk.setOnClickListener(l->enviarMensaje());
+
+        EditText editTextFecha = findViewById(R.id.birthdayUser);
+        editTextFecha.setOnClickListener(l->showDatePickerDialog());
     }
 
     public void enviarMensaje() {
@@ -35,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         String nacionalidad = switchNational.isChecked() ? "Nacional" : "Extranjero";
 
-        editTextFecha.setOnClickListener(l->showDatePickerDialog());
+
 
         String user = editTextMensaje.getText().toString();
         String password = editTextPassword.getText().toString();
