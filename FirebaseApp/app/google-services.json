@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "33144697980",
+    "project_id": "first-proyect-9ca3a",
+    "storage_bucket": "first-proyect-9ca3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33144697980:android:2092f8fb7d499620cb05f9",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33144697980-esi7hkeia1a8sfrmb2a30pfn1js76el3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oasdjNzTpuFTCIp5q8KYoVk-6Wgvgng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33144697980-esi7hkeia1a8sfrmb2a30pfn1js76el3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33144697980:android:61791be190e9be8dcb05f9",
+        "android_client_info": {
+          "package_name": "com.lenin.cordova.travelerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33144697980-esi7hkeia1a8sfrmb2a30pfn1js76el3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1oasdjNzTpuFTCIp5q8KYoVk-6Wgvgng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33144697980-esi7hkeia1a8sfrmb2a30pfn1js76el3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
