@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guia4</string>
+    <string name="detector_de_texto">Detector de texto || NLP</string>
+    <string name="txt_detect">Ingrese una frase a detectar</string>
+    <string name="detectar">Detectar</string>
+    <string name="idioma_txt">El idioma del texto ingresado es:</string>
+    <string name="text_show">"Detección"</string>
+    <string name="analyze_sentiment">Analizar sentimientos, escríbalo en inglés</string>
+    <string name="lvl_sentiment">El nivel de sentimiento es:</string>
+    <string name="nivel_de_sentimiento">"Nivel de sentimiento"</string>
+    <string name="analizar">Analizar</string>
+    <string name="extract_entities">Extraer entidades, escríbalo en inglés</string>
+    <string name="extract">Extraer</string>
+    <string name="type_entity">"Tipos de entidades"</string>
+    <string name="entities_find">"Entidades encontradas"</string>
+    <string name="type">Los tipos de entidades:</string>
+    <string name="entities">Entidades</string>
+</resources>
